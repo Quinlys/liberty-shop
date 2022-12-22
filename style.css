@@ -1,0 +1,25 @@
+
+#wrap {
+    position: relative;
+    width: 450px;
+    margin: 0 auto;
+}
+
+#logo {
+    height: 35px;
+}
+
+#header {
+    position: absolute;
+    opacity: 0.6;
+    left: 0;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+    color: rgba(130, 130, 130, 0.5);
+    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.3);
+}
+
+.card {
+    margin: 15px;
+}
